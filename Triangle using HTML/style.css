@@ -1,0 +1,5 @@
+div {
+    width: 0;
+    border: 20px solid transparent;
+    border-top: 20px solid green;
+}
